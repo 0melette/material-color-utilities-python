@@ -3,7 +3,7 @@ from PIL import Image # Pillow  - used for image processing
 import json # convert Python objects to JSON
 
 
-img_path = 'images/green.jpg'  
+img_path = 'images/ocean.jpg'  
 
 img = Image.open(img_path)
 basewidth = 64
